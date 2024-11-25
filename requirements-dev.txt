@@ -38,3 +38,4 @@ pydata-sphinx-theme==0.9
 sphinx-autodoc-typehints
 sphinxcontrib-bibtex
 packaging
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
